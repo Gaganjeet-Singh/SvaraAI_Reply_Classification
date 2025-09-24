@@ -11,7 +11,7 @@ Neutral → Non-committal or irrelevant
 The pipeline includes data preprocessing, model training, fine-tuning DistilBERT, and deployment via Flask API.
 
 🚀 Project Structure
-├── reply_classification_dataset.csv              
+├── reply_classification_dataset              
 ├── notebook.ipynb        
 ├── saved_model/         
 ├── app.py                
